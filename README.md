@@ -1,2 +1,2 @@
 # Imdb-clone
-noob project
+Noob project
